@@ -2,7 +2,7 @@
 - 👀 I’m interested in sound recommendations
 - 🌱 I’m currently learning Telegram API
 - 💞️ I’m looking to collaborate on awesome re-utilizion project
-- 📫 How to reach me: t.me/popov_iv
+- 📫 How to reach me: www.t.me/popov_iv
 
 <!---
 orsk-moscow/orsk-moscow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
