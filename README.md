@@ -1,8 +1,13 @@
-- 👋 Hi, my name is Igor!
-- 👀 I’m keen on different domains: sound recommendations, CO2 emission reduction
-- 🌱 I’m currently learning Computer Vision algorythms
-- 💞️ I’m looking to collaborate on awesome re-utilizion project
-- 📫 How to reach me: www.t.me/popov_iv
+👋 I'm a seasoned Machine Learning Engineer with over five years of hands-on experience.
+
+👀 My experience includes:
+  - Recommender systems
+  - User Acquisition optimization
+  - LLM-powered applications
+  - Audio processing
+  - Search algorithms
+
+📫  The best way to reach me is via direct message on [LinkedIn](https://www.linkedin.com/in/popov-igor/). 
 
 <!---
 orsk-moscow/orsk-moscow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
