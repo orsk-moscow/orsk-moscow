@@ -15,8 +15,7 @@
 - Led the development of the **ML backend for a new product**, achieving a **significant growth in user listening time**. Here are some announcements of product launch:
   - [Announcement in company's official blog](https://blog.zvuk.com/article/7ff11900-1fac-44fe-8563-9fa71f8edd40)  
   - [Announcement in an aggregator](https://mobile-review.com/all/news/zvuk-predstavil-personalnuyu-volnu-sila-zvuka/)
-
-[Repo](https://github.com/orsk-moscow/online-ranker) with RecSys toy example.
+- [Repo](https://github.com/orsk-moscow/online-ranker) with RecSys toy example showcase my approach.
 
 ### User Acquisition Optimization
 
