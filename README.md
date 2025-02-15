@@ -7,7 +7,7 @@
   - Audio processing
   - Search algorithms
 
-📫  The best way to reach me is via direct message on [LinkedIn](https://www.linkedin.com/in/popov-igor/). 
+📫  The best way to reach me is via direct message on [LinkedIn](https://www.linkedin.com/in/popov-igor/) or book a chat on [Calendly](https://calendly.com/moscow-orsk/quick-chat)
 
 <!---
 orsk-moscow/orsk-moscow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
