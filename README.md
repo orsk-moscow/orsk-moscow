@@ -32,13 +32,13 @@
 
 ## ⚙️Technical Skills
 
-• Programming & Scripting:	Python, SQL, Bash
-• Machine Learning & AI: 	PyTorch, XGBoost, Scikit-Learn, MLFlow, OpenAI, Google GenAI, LlamaIndex
-• Big Data & Databases: 	PostgreSQL, BigQuery, Apache Kafka, Qdrant, Redis, Clickhouse, DataBricks
-• Cloud & DevOps: 		AWS, GCP, Docker, Kubernetes, TeamCity, Airflow, Prefect
-• Software Engineering: 	API development, CI/CD, microservices architecture
-• Tools & Frameworks: 	FastAPI, Flask, Git
-• Monitoring & Observability: Prometheus, Grafana, Sentry, Logfire
+- Programming & Scripting:	Python, SQL, Bash
+- Machine Learning & AI: 	PyTorch, XGBoost, Scikit-Learn, MLFlow, OpenAI, Google GenAI, LlamaIndex
+- Big Data & Databases: 	PostgreSQL, BigQuery, Apache Kafka, Qdrant, Redis, Clickhouse, DataBricks
+- Cloud & DevOps: 		AWS, GCP, Docker, Kubernetes, TeamCity, Airflow, Prefect
+- Software Engineering: 	API development, CI/CD, microservices architecture
+- Tools & Frameworks: 	FastAPI, Flask, Git
+- Monitoring & Observability: Prometheus, Grafana, Sentry, Logfire
 
 
 ## 🤝 Let's connect!
