@@ -28,9 +28,18 @@
 
 ### Audio Processing
 
-- Built a real-time audio processing pipeline for [Project/Application] using [tools/technologies], leading to B improvement in [metric]. (Link to repo if applicable)
-Search Algorithms: Improved the search ranking algorithm for [Project/Application] using [techniques/tools], resulting in a C increase in [metric]. (Link to repo if applicable)
-Technical Skills: Python, TensorFlow, PyTorch, scikit-learn, AWS, Docker, Kubernetes, etc. (Tailor this to your specific skills)
+- Delivered a audio processing pipeline for large-scale musical tracks processing using Airflow, leading to improvement in users' spent time.
+
+## ⚙️Technical Skills
+
+• Programming & Scripting:	Python, SQL, Bash
+• Machine Learning & AI: 	PyTorch, XGBoost, Scikit-Learn, MLFlow, OpenAI, Google GenAI, LlamaIndex
+• Big Data & Databases: 	PostgreSQL, BigQuery, Apache Kafka, Qdrant, Redis, Clickhouse, DataBricks
+• Cloud & DevOps: 		AWS, GCP, Docker, Kubernetes, TeamCity, Airflow, Prefect
+• Software Engineering: 	API development, CI/CD, microservices architecture
+• Tools & Frameworks: 	FastAPI, Flask, Git
+• Monitoring & Observability: Prometheus, Grafana, Sentry, Logfire
+
 
 ## 🤝 Let's connect!
 
